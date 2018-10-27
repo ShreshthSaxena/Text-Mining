@@ -1,0 +1,58 @@
+History of search engine
+
+Lets see how search engine works first. Working of search engine can be primarily divided in 3 steps. First, INFORMATION RETRIEVAL, includes the step where a user query prompts engines to return results, which are ranked hierarchically using trust and relevance signals. Second, WEB CRAWLING, includes the step where web is browsed in a methodical, automated manner. Third, INDEXING, here web pages are analysed by titles, headings and specific fields. This is the fastest form of search.
+	Bing, YAHOO, Ask.com, AOL, Badu, Google etc are popular search engines today. Latest search are smarter than ever. Machine learning techniques are used in search engine to help process and rank information, and help understanding natural human speech. Let’s have a look on history of search engine. 
+	There was time when one had to know the exact wording of a website’s title to find it. Search results were not much user friendly then. There was a kind of log book, where every websites addresses were stored. A naïve wouldn’t be able to use web then. Search engines have been changing then.
+ARCHIE QUERY FORM(1990)
+It was 1st search engine-it searched FTP(file transfer protocol) sites to create index of downloadable files. Due to limited space, only the listings were available and not for the contents for each site. Alan Emtage, a student at McGill University in Montreal. The original intent of the name was “archives”. At that time, this engine became a database of web filenames which would be matched with the users queries.
+WORLD WIDE WEB VIRTUAL LIBRARY(VLIB)(1991)
+Berners-Lee founded it at the Massachusetts institute of Tehnology. Tim also created the Virtual Library, which is the oldest catalogue of the web. 
+VERONICA(1992)
+Veronica was developed by Nevada System Computing Services group. Veronica served the same purpose as Archie, except it worked on only plain text files. After some time another user interface named Jughead appeared with the same purpose as Veronica. Both were used for files sent via Gopher index systems, which was an alternative of Archie. It was created by  Mark Mccahill at the University of Minnesota in 1991.   
+WORLD WIDE WEB WANDERER(1993)
+Matthw Gray created this. It was basically a bot counted active web servers and “measured growth” of the internet. The database, named Wandex was used by this engine. The disadvantage was a ample amount of lag happened due to bot accessing same pages hundreds of times a day.
+PRIMITIVE WEB SERACH(1993)
+Three full equipped bot fed search engines had launched on the web JUMPSTATION, the World Wide Web Worm and the Repository Based Software Engineering spider. Jumpstation slowed to a stop while web was growing. The problem with this system was that they listed results in the order tit found without providing discrimination. 
+INFOSEEK(1994)
+By using this engine a page could be submitted in realtime by the webmasters.
+ELNET GALAXY(1994)
+The ELNet Galaxy web directory was launched in January,1994. It was similarly organised to recent web directories.
+ALIWEB(1994)
+It was created by Martijn Koster. No bot was used in this. No excessive bandwidth was used. But people didn’t know the process of submitting their sites.
+YAHOO(1994)
+The famous search engine Yahoo was created by David Filo and Jerry Yang, beginning as a collection of favourable web pages that included a man made description with each URL. The policy of Yahoo was adding informational sites for free of cost and for commercial sites, charge was $300 per year.
+WEBCRAWLER(1994)
+Brian Pinkerton invented webcrawler on April,1994 in University of Washington. It was the first crawler which could index entire pages. In a very short time it became so popular. AOL purchased this for it’s popularity and ran it on their network. 
+LYCOS(1994)
+The next majot development was LYCOS. It was designed at Carnegie Mellon University around july,1994 by Michale Maludin. 
+LOOKSMART(1995)
+Looksmart became a tough competitor of Yahoo by increasing inclusion rate back and forth.
+EXCITE(1995)
+It was originated from the project Architext, which was designed by six Stanford undergrad students on February. 
+ALTAVISTA(1995)
+It had nearly unlimited bandwidth for the first time in the history. It was first to allow natural language for queries. It alsoprovided numerous search tips and advanced search features.
+BACKRUB(1996)
+It’s basically Google’s beginning. Larry and Sergey began working for it. It’s ranking technique was very efficient and innovative. 
+ASK.COM(1996)
+It was powered by DirectHit. It was easy to spam.
+MSN(1998)
+It was relied on Overture, Looksmart, and Inktomi.
+In 1998 Google was launched.
+ALLTHEWEB(1999)
+It had sleek interface with advanced features, which caused yahoo’s better performance.
+In 1999 the search engines were also launched named GenieKnows, Naver, Teoma, Vivisimo etc.
+Then in year 2000, Baidu, Exalead, Gigablast came into the market.
+Then came Quaero, Live search, wikiseek, sproose, wikia search, Blackle, Powerset, Picollator, Viewzi, Boogami, LeapFish, Forestle, DuckDuckGo.
+BING(2009)
+It was rebranding of MSN/Live search. Inline search suggestions for related searches are introduced here.
+GOOGLE INSTANT(2010)
+Users started receive real time search results while typing their queries.
+Other known search engines are Panda, Penguin, Hummingbird, Pigeon, Mobilegeddon, RankBrain etc.
+
+
+
+
+  
+
+
+

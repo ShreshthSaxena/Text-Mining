@@ -1,0 +1,65 @@
+                         History of Search Engine 
+
+According to Tim Berners-Lee, creator of the World Wide Web, "The Internet is a network of 
+networks”. Basically it is made from computers and cables. The Web is an abstract imaginary 
+space of information. On the Net we can find computers which are connected to each other, we 
+can find documents, sounds, videos and other information. On the Net, the connections are 
+cables or wireless medium between computers. On the Web, connections are hypertext links. 
+With information being shared worldwide, there was eventually a need to find that information in 
+an orderly manner. Hence there is a requirement of a search engine. 
+These are the search engines according to time line:- 
+Archie:The earliest versions of Archie, written by Alan Emtage, simply contacted a list of 
+FTP archives on a regular basis (contacting each roughly once a month, so as not to waste too 
+many resources of the remote servers) and requested a listing. These listings were stored in local 
+files to be searched using the UNIX grep command. 
+Lycos was created as a university project, but was the first to attain commercial search 
+engine success. In 1999 Lycos was the most visited search engine in the world and was 
+available in 40 countries. Now it is currently comprised of a social network with email, 
+webhosting and media entertainment pages. 
+Yahoo started at Stanford University by Jerry Yang and David Filo (both electrical 
+engineering grad students) that became a web portal and search engine. 
+WebCrawler created by Brian Pinkerton WebCrawler was the first crawler which indexed 
+complete pages online. AOL purchased WebCrawler, using the technology for their network, 
+and when Excite purchased WebCrawler, AOL used Excite to run their program NetFind. 
+WebCrawler was one of the foundational search engines. 
+AltaVista an industry leader, was once the most popular search engines of its time. It 
+differed from its contemporaries because of two factors: Alta Vista used a multi-threaded 
+crawler (Scooter) that covered more web pages than people knew existed at the time. It also 
+had a well-organized search-running back-end advanced hardware. By 1996 AltaVista had 
+become the sole search results provider for Yahoo. In 2003 Alta Vista was bought by Overture 
+Services, Inc., which only months later was acquired by Yahoo. 
+Looksmart competed with Yahoo! Directory and had an initial a goal to create a 
+substantial directory of websites. When it went public in 1999, it lost a fair amount of customers. 
+By 2002 Looksmart became a pay-per-click provider, and after being dropped by Microsoft, 
+bought a search engine called WiseNut. Sadly it never gained serious traction, and Looksmart 
+lost its momentum. 
+WiseNut was a crawler-based search engine that was introduced as a beta, and was 
+owned by Looksmart. Initially the site was well reputed with an unsullied database, and an 
+automatic clustering of search results by using a technology called WiseGuide. Looksmart 
+bought WiseNut in 2002, and was eventually closed in 2007. 
+Excite Founded originally as "Architext" by Stanford University students, Excite was 
+launched officially having purchased two search engines (Magellan and WebCrawler), and 
+signed exclusive agreements with Microsoft and Apple. Fellow Stanford students Larry Page 
+and Sergey Brin once offered to sell their startup "Google" to the Excite team for $1 million, 
+which was refused. Google became a $180 billion company, and Excite is now used as a 
+personal portal called My Excite. 
+Hotbot a search engine also popular in the 90's was launched by Wired Magazine, and 
+is now owned by Lycos. 
+Dogpile was a search engine developed by Aaron Flin and shortly thereafter sold to 
+Go2net. Now Dogpile fetches results from Google, Yahoo, and Yandex. 
+Google Started for a research project by Stanford students Larry Page and Sergey Brin. 
+They created a search engine that would rank websites based on the number of other websites 
+that linked to that page. Prior to this, other engines have ranked sites based on the number of 
+times the search term appeared on the webpage. This strategy developed the world's most 
+successful search engine today. 
+MSN Search was the engine used by Microsoft, sourcing search results from Inktomi, 
+and later Looksmart. By 2006 Micosoft started performing their owns mage searches, and MSN 
+became branded as Windows Live Search, then Live Search, and finally to Bing (2009) which 
+was set to replace the Yahoo search engine. 
+
+
+ 
+
+ 
+
+

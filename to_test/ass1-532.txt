@@ -1,0 +1,86 @@
+﻿HISTORY OF SEARCH ENGINES
+
+
+For information retrieval, Search Engines are used as a tool in web. To get relevant information from unnecessary data Search Engines are needed. It helps people to find information quickly in short span of time.
+It is a software program that works on keyword matching i.e it searches the internet based on the words that you consign as search terms.
+
+
+FIRST SEARCH ENGINE:
+Archie - 1990 by Alan Emtage,Bill Heelan and J.Peter Deutsch
+It works on the basis of a file’s name i.e used to search for File Transfer Protocol (FTP) files.
+Archie was fail to do indexing of contents.
+
+
+Gopher - 1991 by Mark McCahill
+It was a type of system based on Menu. All you have to do is select the item which is required to you from the menu.
+
+
+Veronica and Jughead - 1991
+First text based Search Engine. 
+Veronica (Very Easy Rodent-Oriented Net-wide index to Computerized Archives). It provides keyword searching which are  present in the Gopher listings.
+
+
+Jughead (Jonzy’s Universal Gopher Hierarchy Excavation and Displays). It gives menu information from specific Gophers servers.
+
+
+W3Catalog and Wanderer - 1993 by Oscar Nierstrasz
+To display images in line with text, Mosaic was introduced and was the first Graphical Web Browser.
+W3Catalog: was one of the first Search Engines that attempted to provide a general searchable catalog foe www resources.
+
+
+Wanderer: First web robot which provides an index called wandex. It is a perl based web crawler.
+
+
+Aliweb -1993
+Second search engine
+Users are allowed to submit the locations of index file to include web pages  and can add user written page description and keywords
+
+
+JumpStation - 1993
+It combines the three essential features of a web search engine(crawling, indexing , and searching) and thus, was the first www resource discovery tool. To search web pages and to build its index, JS used a web robot.
+
+
+Web Crawler - 1994 by Brian Pinkerton
+It is a web service but at first it was a desktop application. It was the first web search engine to enable full text search. 
+
+
+MetaCrawler - 1995
+It has its own search syntax. Rather than a single search engine algorithm , it provides a multiple search engine.
+
+
+Alta Vista - 1995
+It was the fastest search engine and could manage tons of hits a day without any deterioration.
+
+
+Excite - 1995
+It is an internet portal and one of the major ”dotcom-portals”
+
+
+Dogpile and Hotbot - 1996 
+Dogpile:  was a meta search site. It uses the search results of multiple search engine and before presenting to the user , it filters the duplicates.
+
+
+HotBot:  The first search engine which offers the facility to search within search results.
+
+
+Ask Jeeves - (1996-97) : Garrett Gruener and David Warthen
+The concept is to provide answer to the user on the everyday basis that is users can able to get the answers of questions posted everyday.
+
+
+Google - 1998 
+Google employs PageRank Algorithm which lead to successful regime. This algorithm maintain a web page ranking which matches with a given search string. Google along with indexes and caches web pages using snapshots of other file types for eg : PDF and word documents.
+
+
+Yahoo! Search - 2004 by David Filo and Jerry Yang
+Yahoo! Began as a web directory of favourable web pages, each including a  man-made description in its URL. Even though Yahoo! owned multiple search engines, but kept using Google search engine for its results.
+
+
+WikiSeek and Guruji(2006-07)
+WikiSeek: It is a type of search engine which indulge with the idea of wikipedia , that is it indexed wikipedia pages only. 
+
+
+Guruji: This search engine was for the indian users providing information in the context of India.
+
+
+Bing -2009 : 
+It is designed by Microsoft. It was started as MSN search by Microsoft which used search results from Inktomi and Outsource. Later MSN Search was replaced by Bing. Bing has taken over Yahoo! Search product as well.

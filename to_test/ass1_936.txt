@@ -1,0 +1,46 @@
+﻿History of Search Engines
+Search engines have become such an integral framework for how we learn, cross-check facts, and process information.Instead of logging hours poring over books in a library, we can access seemingly limitless databases at our fingertips in a matter of seconds. 
+
+What search engines are and how they work
+Search engines scan the content and information, and follow links that lead to other pages. Search engines operate using algorithms, which find information on websites, and store them in a large index, or catalogue. As sites are updated or changes, the index is updated as well. The engines sort through pages, and bring up the matches that are closest to the keywords searched. The pages are ranked according to the greatest relevance of content, and the order of ranking greatly contributes to the site's popularity and success.
+
+How Search Engine Development Began
+The need for search engines was first noted in 1945 when American engineer and scientist Vannevar Bush published an article in The Atlantic Monthly, emphasizing the necessity for an expansive index for all knowledge. Information has been extended far beyond our present ability to make real use of the record. A record, if it is to be useful to science, must be continuously extended, it must be stored. 
+Decades later, college students and electrical engineers attempted to make this kind of index a reality. 
+
+Search Engines Development Timeline
+Archie(1990) was the first tool created by Alan Emtage and L. Peter Deutsch for indexing, and is considered the first basic search engine. 
+Lycos(1993) was created as a university project, but was the first to attain commercial search engine success. In 1999 Lycos was the most visited search engine in the world.
+Yahoo!(1994) started at Stanford University by Jerry Yang and David Filo (both electrical engineering grad students) that became a web portal and search engine.
+WebCrawler(1994) created by Brian Pinkerton WebCrawler was the first crawler which indexed complete pages online. 
+AltaVista(1995) an industry leader, was once the most popular search engines of its time. It differed from its contemporaries because of two factors: Alta Vista used a multi-threaded crawler (Scooter) that covered more webpages than people knew existed at the time. It also had a well-organized search-running back-end advanced hardware.
+Looksmart(1995) competed with Yahoo! 
+WiseNut(2001) was a crawler-based search engine that was introduced as a beta, and was owned by Looksmart. 
+Excite(1995) Founded originally as "Architext"by Stanford University students, Excite was launched officially having purchased two search engines (Magellan and WebCrawler), and signed exclusive agreements with Microsoft and Apple. 
+Hotbot(1996) a search engine also popular in the 90's was launched by Wired Magazine, and is now owned by Lycos.
+Dogpile(1996) was a search engine developed by Aaron Flin and shortly thereafter sold to Go2net. Now Dogpile fetches results from Google, Yahoo, and Yandex.
+Google(1996) Started for a research project by Stanford students Larry Page and Sergey Brin. They created a search engine that would rank websites based on the number of other websites that linked to that page.  This strategy developed the world's most successful search engine today.
+MSN Search(1998) was the engine used by Microsoft, sourcing search results from Inktomi, and later Looksmart. By 2006 Micosoft started performing their own image searches, and MSN became branded as Windows Live Search, then Live Search, and finally to Bing (2009).
+ASK(1996) was originally titled "AskJeeves.com"and was designed by Garret Gruener and David Warthen in Berkeley, CA. The goal was to provide users with answers to queries typed with normal everyday language and colloquialisms. It was acquired in 2005 by IAC and continues to grow with over 100 million users.
+Teoma(2000) meaning "expert"in Gaelic, was a search engine created by professor Apostolos Gerasoulis and Tao Yang at Rutgers University. 
+Infoseek(1994) was a search engine begun by Steve Kirsch, and was bought by The Walt Disney Company in 1998. Eventually it was replaced by Yahoo, and no longer exists.
+Overture(1998) was originally named "GoTo,"where top listings were sold on a cost-per-click or pay-per-click basis.
+Alltheweb(1999) began in 1994 out of FTP Search, from Norwegian University of Science and Technology, when then turned into Fast Search &Transfer, or FAST. 
+AOL Search(1999) bought Web Crawler (one of the major crawler-based engines of it's time) in 1995, and after a number of deals, purchases and exchanges, AOL relaunched their search engine, calling it AOL Search. 
+
+Newer Search Engines
+Cuil(2008) was a search engine that arranged pages by content, showing large entries with pictures, and thumbnails for results etc. The search engine claimed to have over 120 billion web pages indexed, and would not store user's search activity or their IP number. 
+Secure Search Engines
+Ixquick.com(1998) is a metasearch engine that offers a proxy service for Ixquick and an email service that offer privacy protection, called StartMail. It was relaunched in 2005 and included a re-engineered metasearch algorithm. 
+StartPage(2009) is a secure search engine, meaning it pulls all the same results as Google, but uses the privacy protection of Ixquick, which allows users to search with privacy.
+DuckDuckGo(2006) is a search engine that does not store or share any information about the user, and is unique to other search engines by providing all users the same results for a given search term, as well as providing search results from what they describe as the "best sources"rather than from the most sources. 
+
+Specialized Search Engines
+Wolfram Alpha(2009) is a "computational knowledge engine"that answers factual queries by computing the answer from externally sourced "curated data"instead of listing relevant websites which could lead to the answer.
+Major Non-US Search Engines
+Baidu(2000) is one of the main search engines in China, based on a special identification technology that classifies and groups articles. Baidu locates information, products, and services through Chinese language search terms (via phonetic Chinese), advanced searches, snapshots, spell checker, stock quotes, news, images, video, space information, weather, train and flight schedules and other local information. Baidu's greatest competitors are Google Hong Kong and Yahoo! China.
+Yandex(1997), originally standing for "yet another indexer,"is the largest search engine in Russia, and ranked as the 4th largest search engine in the world, serving over 150 millions searches per day.
+
+Local Engines
+Yelp(2004), named for the concept "Yellow Pages"began as an email service exchange recommending local business. Yelp now is connected to social networking sites and functions as a search engine, where users can access reviews for companies/restaurants/businesses under a specific search/product. Yelp recently announced that it is now powering the Microsoft Bing local search engine results.
+Foursquare(2009) is a location-based social networking search engine for mobile devices, utilizing a GPS hardware system where users can search for restaurants/entertainment, etc in their immediate locale and connect with others in the area.

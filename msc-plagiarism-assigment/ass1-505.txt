@@ -1,0 +1,25 @@
+Search Engine is a software program that searches for content via WWW(World Wide Web) based on the input that users provide as search terms. These are the best instances of large information retrieval systems. The first ever search engine was Archie. It was developed by Alan Emtage, Bill Heelan and J. Peter Deutsch students of McGill University, Montreal in 1990. It searched FTP (File Transfer Protocol) sites to create index of downloadable files. 
+
+Gopher, a protocol designed for distributing and finding documents on the internet, paved the path for two new search engines – Veronica (Very Easy Rodent-Oriented Net-wide Index to Computerized Archives) and Jughead (Jonzy's Universal Gopher Hierarchy Excavation and Display). Both Veronica and Jughead searched file names and titles that were stored in Gopher index systems. No web search engines existed by 1993. In June 1993, Matthew Gray developed the first web robot, the Perl-based World Wide Web Wanderer, and used it to generate a database called 'Wandex'. It counted the active web servers and measured the growth of internet. 
+
+The second web search engine named ALIWEB (Archie-Like Indexing of the Web) was created by Martijn Koster in October, 1993. It gave freedom to users to submit their own pages that they wanted to get indexed. But it didn’t gain much attraction as users found it difficult to use their website. The end of 1993 saw the advent of these new search engines– JumpStation, the World Wide Web Worm and the RBSE spider (Repository-Based Software Engineering). JumpStation was used for collecting information regarding page title and header using linear search. It was also the first WWW resource-discovery tool to collaborate crawling, indexing, and searching.	
+
+A major breakthrough occurred with WebCrawler which released in 1994. It became the  benchmark for all the search engines that came after it as it allowed users to search for any word on the webpage. It was widely accepted by the public.
+
+After WebCrawler, many search engines like Excite, Infoseek, Northern Light, AltaVista and Yahoo! etc. sprung up. All of these are explained below:
+
+•Lycos: Developed by Michale Mauldin in 1994. It went public with a complete list of nearly 54 thousand documents. It increased the size of its list exponentially – 394000 by August 1994, 1.5 million by January 1996 and 60 million by November 1996.
+
+•Infoseek: Also released in 1994. It was used by Netscape as its default search engines that gave them a large audience. It allowed webmasters to submit their pages in real time. 
+
+•AltaVista: It was one of the most popular search engines but it faded away with Google entering the scene. It was developed by Louis Monier and Michael Burrows. It was the fastest and robust search engine that could handle up to million hits in a day without failing. 
+
+•Inktomi: Inktomi released its search engine HotBot in 1996. It was more efficient than its competitors as it updated its database more often. 
+
+•Ask Jeeves: Now called Ask.com. It used human editors to match user queries (that could be asked in natural language). It was founded by Garrett Gruener and David Warthen in Berkeley, California.
+
+The most famous search engine company, Google, was launched in 1998 by Larry Page and Sergey Brin. Google has captured the highest market share and is now considered as synonym to ‘web search’. The success was mainly due to the patented algorithm – PageRank – which ranks the web pages matching the query string. The underlying assumption of this algorithm is that an important link is going to receive more links from other websites. Google also provides snippets of other file types like pdf, word documents, spreadsheets etc. 
+
+Yahoo! was founded in 1994 as a database of websites. Yahoo! purchased Inktomi in December 2002. It then acquired Overture in July 2003. It combined the technologies from the various search companies to create a new search engine. Yahoo! rejected to buy Google in February 2004, which has certainly cost them dearly.  MSN Search was launched by Microsoft in 1998. Microsoft only paid attention to MSN when Google’s business model became successful. In 2009, Microsoft launched Bing to compete with Google. It had the highest market share in US but minimal outside the US.
+
+Since then, there have been many search engines like Guruji, Sproose, Picollater, Viewzi, Cuil etc. But none of them gained significant market share like Bing and Google. Google is the most popular search engine with a market share of 90.14% as of February 2018, followed by Bing with 3.24%. Although there are innumerable search engines, none of them are free from biases.  

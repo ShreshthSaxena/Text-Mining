@@ -1,0 +1,52 @@
+﻿HISTORY OF SEARCH ENGINE
+
+Before knowing the history of search engine we must understand, what really search engine is? So, the search is a
+program where you place your query/problem and it provides you with desired solution by looking at
+database/servers.
+
+
+It all started in 1990, when the first search engine ARCHIE was invented by Alan Emtage, Bill Heelan and J. Peter
+Deutsch. Archie was just capable of downloading the directory listings of all the files located on File Transfer
+Protocol sites and it just provided the user with the filename not the content.
+
+
+In 1993, JUMPSTATION, the first WWW search engine came into picture. It used the titles and headings of the
+documents to index the web pages. It used linear search to find the web pages. It searched results on the basis of
+input provided by the user and output the listing of urls that matches the keywords of the input.
+
+Then, YAHOO came in 1994 which was invented by Jerry Yang and David Filo. The site was the first collection of
+web pages across the internet. They include Man-made descriptions for the URLs. For Site owners it was free to
+add Informational sites, but commercial sites it was paid.
+
+
+In the same year when Yahoo was launched two more search engine was also launched WebCrawler and Excite.
+
+WebCrawler was the first search engine that indexed whole page means full text search. Excite invented bought
+WebCrawler in 1996.It provided features like instant messaging ,weather report, news report,metasearch.
+
+
+Lycos search engine was also established in 1995.It enjoyed several years of growth and became the most visited
+ site in the world. Till 1998, Lycos was the
+largest search engine.
+
+
+After Lycos then came Askjeeves search engine. In this search engine humans answered the query that was
+posted by the user. Now, it is known with a name of Ask.com. Facing immense competition with other search
+engines like google Ask.com launched a Q&A community for generating answers from real people.
+
+
+In 1998, Google launched,which was invented by Larry Page and Sergey Berin. Both Page and Berin developed the
+PageRank algorithm. Convinced that the pages with the most links to them from other highly relevant Web pages
+must be the most relevant pages associated with the search, Page and Berin tested their thesis as part of their
+studies, and laid the foundation for their search engine. Now, Google is the most widely used web based search
+engine.From 1998,Google has never looked back it is now the most widely used search engine. After Pagerank
+algorithm, Google used Panda algorithm to reward high-quality websites and diminish the presence of low-quality
+websites in Google’s organic search engine results.After that google again updated their algorithm to Penguin
+algorithm which was improved version of Panda.
+
+
+Microsoft launched their first search engine named-MSN search engine using search results. It consisted of a web
+crawler, index, and search engine . After that, MSN Search launched a improved version which displayed listings
+from Looksmart with the results from Inktomi but for a short time after that the results from AltaVista were used.
+Now, it is known with the name of Bing search engine which is developed in Asp.net.
+

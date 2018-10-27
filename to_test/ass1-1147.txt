@@ -1,0 +1,36 @@
+﻿History of Search Engines
+
+
+
+
+Search Engines are softwares which retrieve information from a specific platform according to the information fed to it. The platform can be a simple local file system on a personal computer, a database inside a corporation, or even something as large as the whole of the World Wide Web.
+
+
+The first recorded search engine was Archie and was created in 1990 by three Computer Science students, Alan Emtage, Bill Heelan and J. Peter Deutsch. It retrieved information from the public FTP servers and created a listing of these data. Following the rise of the Gopher protocol in 1991, two new programs called Veronica (Very Easy Rodent-Oriented Net-Wide Index to Computerized Archives) and Jughead (Jonzy’s Universal Gopher Hierarchy Excavation And Display) were launched. As they were the technical successors of Archie, they were named in reference to the characters from the Archie comic series. 
+
+
+In 1993, Matthew Gray created the World Wide Web Wanderer, a Perl based system which was used to measure the size of the then-known internet. In the same year, Oscar Nierstrasz wrote W3Catalog. It was the very first search engine that retrieved information from websites, but suffered from the drawbacks of speed. Similarly, Aliweb was released by Martijn Koster, which depended on each website admin registering their webpages to facilitate the search functions.
+
+
+Jonathan Fletcher released JumpStation in the same year, which was the first program to use the three key features of a search engine, namely crawling, indexing and searching.
+
+
+In 1994, WebCrawler was launched which could search for any word in any webpage in the internet. This was the basis on which all future search engines would be built upon.
+
+
+In the next few years, the internet saw the rise of search engines and soon enough there were a number of them which offered free search functions. Notable names among them were Magellan, Excite, Infoseek, Inktomi, Northern Light and AltaVista.
+
+
+In 1994, Yahoo! created its web directory, which it would not use until the launch of its own search engine in 2002. Instead, it presented its search functions for other companies to use.
+
+
+In 1996, Steven Yang and Gary Culliss from MIT began working on a popularity engine, which provided ranked results to users according to their past selections. This was the start of what we see now as rank-based search engines where the results are shown to the user, ranked by relevance. In 1997, Ask Jeeves was released which used natural language search. This would later come to be known as Ask.com.
+
+
+In 1998, MSN launches MSN Search, which would later change its name to Bing in 2009. Yahoo! Search came to be powered by Bing technology.
+
+
+In 1997, Google.com came into existence. It would rise to its height in the 2000s. Over the years, it would provide many technological innovations to help it become the most popular search engine in recent times. One of them is PageRank, which used the concepts of iterative ranking algorithm as was described in the paper “Anatomy of a Search Engine” by Sergey Brin and Larry Page. It ranks the web pages based on the number of links to and from it and the ranks of those links, with the assumption that good pages are linked to more good ranked pages. This facilitated the ranked search feature and helped migrate more users to its platform. Also, one of its main advantages was its minimalistic interface. 
+
+
+Thus, search engines have risen and provided a helpful interface for users to search whatever they need in the internet. Now, more new technologies are getting popularized such as semantic searching which searches according to context. They are also being used to provide advertisements to users. Many companies are analysing search data and providing targeted marketing. All in all, search engines have made navigating the internet so much easier and hassle-free.

@@ -1,0 +1,65 @@
+--History of Search Engines
+
+Google et al. are constantly getting smarter and use machine learning to break into our minds and explore our deepest, darkest secrets… well, not quite but these search engines are pretty damn clever and they are only getting freakishly more so.
+Using algorithms (sets of rules) to process and rank content so we don’t have to sift through thousands of pages of copy to find the answers to our queries, search engines can even understand natural, human speech to make for a fluid service – but the web hasn’t always been this easy to work with. There was a time when you would have needed to know the exact wording of a webpage’s title to find it and you couldn’t have a “casual browse”, oh no, the internet was rife with spam.  
+A brief timeline of the search engine history is listed below:
+
+1990
+Archie, the world’s first search engine, crawled FTP (File Transfer Protocol) archives to create an index of downloadable files. Limited space meant that only the headlines were visible – contents were available upon clicking.
+
+1991
+Tim Berners-Lee launches the world’s first website, the “World Wide Web”.
+
+1994-95
+In order to help users navigate a steadily growing crowd of websites, four game-changing engines hit the scene: 
+Infoseek – the first to sell advertising using the CPM (cost per thousand impressions) metric. It was bought by The Walt Disney Company in 1998.
+Lycos – was a university research project that’s still going today. If you’re a fan of dogs the homepage on this search engine will get your tail wagging.
+AltaVista – the first engine to have unlimited bandwidth and allow natural language queries.
+Yahoo – at one point it was one of the most popular websites in the US but is now commonly thought of as “Google’s ugly mate”.
+
+1995
+Microsoft’s MSN is released on the same day as Windows 95. The web portal is still live, surprisingly.
+
+1996
+A search engine named “BackRub” – the first whisper of Google – goes into build. The brains behind it are Larry Page and Sergey Brin, who go on to found Google. The idea behind BackRub was to use backlinks as an indication of authority. If ranked pages were to mention another website, it counted each instance as a “vouch” and rewarded that website with improved search presence.
+Ask Jeeves, the lovable, question-answering valet, encouraged people to ask questions using everyday natural language. Now known as Ask.com, it still functions in much the same way as well as offering maths, dictionary and conversion capabilities.
+
+1998
+Google becomes official and sets out to improve how data is indexed and delivered.
+
+2000
+Baidu, a Chinese search engine, hits the market. At the time of writing approximately 0.05 per cent of the UK are active users, making it the 6th most popular search engine in the UK.
+Google launches its AdWords service, allowing advertisers to display copy on search engine results pages. Today it is Google’s main source of revenue.
+
+2001
+Google Images launches, allowing searches for visuals.
+
+2002
+The first update to Google’s algorithm is documented. We know that nowadays Google can update its algorithm up to 600 times a year in order to keep spam low and quality high.
+
+2003-05
+Local search engine optimisation is born, helping to connect users with valuable information close to them, from shop opening times to listings in maps.
+
+2008
+Privacy-focussed search engine DuckDuckGo flutters to life.
+Google Suggest, the auto-complete function, is released to offer users more relevant content by suggesting search options.
+
+2009
+Bing (previously MSN Search, Windows Live Search and later Live Search) comes late to the party from Microsoft with a couple of new features, including its own version of Autosuggest, Explore pane.
+Ecosia, powered by Bing as well as its own algorithms, gets a mention purely for its ethics. A social business that donates 80 per cent of its income to conservation organisations, this search engine is answering queries and planting trees at the same time.  
+
+2013
+Interflora is hit with a huge Google penalty due to its unethical link building tactics. This move had publishers and businesses up late at night desperately revising the search engine’s Webmaster Guidelines.
+
+2015
+RankBrain, a deep learning system that helps generate responses to search queries, is rolled out to make search engine results even more relevant.
+
+2016
+Voice search explodes as more personal assistants hit the market. (Think Amazon’s Alexa and Apple’s Siri).
+
+2017
+Pinterest launches Lens to its 200 million users as part of its plan to dominate the visual search sphere.
+
+2018 and beyond
+Many brands and marketers are putting their money into image and voice search and machine learning, and it doesn’t look like it’s slowing down anytime soon. A surge in data means it’s easier than ever to understand customer needs and use these insights to refine advertising and marketing practices.
+Earlier this year Amazon had a crack at paid voice search but nothing came of it and it’s gone oddly quiet. Expect more tests from more brands on the horizon, as well as further developments in voice search: one current line of thought is that voice search could be fundamentally flawed in its one-answer response – nobody wants to listen to a full list of results but, at the same time, if a personal assistant was to give an incorrect or displeasing answer faith would be lost very quickly.

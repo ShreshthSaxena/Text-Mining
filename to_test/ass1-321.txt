@@ -1,0 +1,50 @@
+History of Search Engine
+Today is google is the most popular search engine all around the word, they use machine learning to understand human language, handwriting and also search on images all over the websites available. They use enhanced page ranking algorithm to sort websites by relevance.
+But there is long history behind this Success.
+1990- 
+ Archie Query Form Created by Alan Emtage.- The 1st search engine that searched FTP sites to create index of downloadable files. They only listed those due to limited space they had. 
+1992-
+Veronica-Searched file names and titles stored in Gopher index systems.
+
+1993-
+Jughead- This search engine system for the Gopher protocol.  Created  by Rhett Jones at the University of Utah.But it can only search a single server at a time.
+
+World Wide Web Wanderer-Created by Matthew Gray, web crawler was used, a bot which counted active web servers and “measured the growth” of the Internet.	
+
+1994-
+ALIWEB-Created by Martijn Koster. They crawled meta data and also allowed the user to submit the pages they wanted indexed along with a description.
+Yahoo! Search-Created by David Filo and Jerry Yang. It began with a collection of favorable web pages which incuded a man-made description with each URL. The searchable index was powered by Inktomi and later was powered by Google until 2004 and then it became independent.
+Increasing size influenced them to become a searchable directory.
+
+1995-
+Excite-Created by six Stanford undergrads 
+AltaVista-For the first time they used Unlimited bandwidth, first to allow natural language queries.
+Advanced searching techniques.Add or delete your own URL within 24 hours.Search tips and new features.
+
+1996-
+ BackRub (Google) 
+Larry and Sergey began working on BackRub now known as google, a search engine which utlized backlinks for search.It ranked pages using on referring to page , means if any mention of a website on another site, is there then it would count it as a positive toward the mentioned site. A website’s reliability is based on how many people linked to that site, and how trustworthy the linking sites were.
+In 2008 a new feature was introduces that shows dropdowns of suggested results that matches the queries.
+2010-Caffeine-A web indexing system that delivers 50% fresher search results 
+2013-Hummingbird-the first search algorithm to parse the intent behind a query, rather than just the language itself. 
+
+Inktomi: HotBot
+Search engine Hotbot listed on Hotwire. 
+AskJeeves/Ask.com
+Used natural language search engine where human editors tried to match search queries, which aimed to rank links by popularity. Easy to spam. 
+
+1998-
+MSN Search
+Relied on Overture, look smart. It is owned by Microsoft.
+Overture
+Formerly Goto.com, it was the first company to successfully provide a pay-per-click placement search service 
+
+1999
+AllTheWeb
+Sleek interface with advanced features that was was eventually rolled into Yahoo! search 
+2009
+ 
+Bing- Rebranding of MSN/Live Search.Inline search suggestions for related searches directly in result set.
+2011
+   Schema
+With a goal of maintaining structured internet data, Google, Yahoo!, and Microsoft collaborate to create Schema.org.

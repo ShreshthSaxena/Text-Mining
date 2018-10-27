@@ -1,0 +1,81 @@
+
+History of Search Engines
+
+
+What is a Search Engine?
+
+Search Engine is any online tool or facility which is on the web that allows to scan through a specific domain of data (usually the WWW) and displays the most appropriate matches that appear according to the provided keywords or queries.
+These tools or software system are majorly written in Python, C,  C++ languages.
+
+How and why did these systems originate?
+
+The first search engines appeared and were brought into usage in the 1990s.
+These initial systems used to search FTP sites and created an indexed downloadable files which can later be seen through to get the query results.
+
+Major reason for coming up of these systems was the rapid increase in the amount of data available on the web. Ease of storage and growth of the data sector. Thus to avail the required information from the web in efficient time without requiring extensive manual look-about, was the need of the hour.
+
+Evolution of the Search Engines..
+
+1990
+FTP sites were the target.
+Downloadable indexed listings were created.
+Due to less storage available only the listings were available and not the content.
+
+1991
+Coming up of WWW virtual library(VLib), hosted by CERN.
+CERN web servers hosted a list of web servers- initial internet.
+1993
+Coming up of first search engines which resembled the modern search engines.
+Primitive web searches stated to appear in the desired and more informative patterns and formats.
+Information about the pages required by the user.
+Redirection to the required page.
+Indexed titles and URLs started to appear as the query results.
+Example- RBSE Spider also had a rating system.
+
+1994
+
+Coming up of yahoo!
+Wait time for the results was still very high.
+Service for commercial entities was a little expensive.
+results had man made descriptions with the URL of the searched pages.
+
+Web Crawler came out.
+The oldest web search engine which is still active as it was, with the systems and procedures intact even today.
+This system indexed the entire pages.
+
+1998
+
+The landmark year in the journey of search engines.
+
+MSN search launched
+This system worked extensively on the user experience and the outlay of the information search in lesser time.
+
+Google
+Revolutionised the industry of sears engines by highly improving the user experience and the result outputs by working extensively on the backlink models.
+
+2000-2018
+Business in the sector boomed with improvement in technology.
+Various successful search engines came out.
+Competition in the sector is still there, however google remains on the top in its class.
+
+Algorithmic journey of google..
+
+Most popular search engine since its inception.
+Algorithm advanced with time.
+
+Initially the search results were highly objective and static.
+Coming up of social media highly influenced the relevancy algorithm by providing an insight on the jargons and meaning thereof.
+Roping in of inbound links and connections in the pages which were the result of initial searches.
+Adding more contents and improved data sets.
+Judging websites according to their authority.
+
+All these advancements helped google to improvise the algorithm each day and made the competitors remain far behind.
+
+Best Search Engines in their class, according to me..
+
+Google - For speed and popularity of the content.
+Yahoo - Email related searches and associated activity.
+Ask - Question answering kind of sessions
+AOL - wide range of websites connected.. better for linked searches.
+Wolfram - Searches amalgamated with Maths.
+DuckDuckGo - Privacy, no tracking.

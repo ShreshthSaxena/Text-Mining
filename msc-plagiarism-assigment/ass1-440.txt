@@ -1,0 +1,42 @@
+﻿SEARCH ENGINE
+
+Search Engine , a service for user queries which was given via world wide web. Search Engine searches for paticulars, words or characters specified by the internet user, to the corresponding database, that  used for discovering sites related to the user query  on the WWW.
+Search engines consist of following processes:
+1)Information retrieval (IR): retrieving specific information from stored data. 
+2)Web crawling: browses the world wide web in a systematic, computerized manner
+3)Indexing: analysis of pages by titles, sub titles, headings and specific area. This is the fastest form of search.
+
+
+HISTORY
+
+Archie, first engine or tool used for searching on the Internet, was created in 1990 by Alan Emtage, Bill Heelan and J. Peter Deutsch, students of computer science at McGill University in Montreal. Functionality of archie:directory listings of all the files located on public anonymous FTP sites, creating a searchable database, however Archie did not use indexing.
+
+Next engine come to the picture in 1991, which was Gopher, created by Mark McCahill at the University of Minnesota, guide to two new search programs, Veronica and Jughead. Similar to Archie, Veronica and Jughead had searched the filenames, headings and titles stored in Gopher index systems. Veronica  provided a keyword search of most Gopher menu tables in the entire Gopher listings. Jughead Excavation and Display, a mechanism used for obtaining menu information from specific Gopher servers. 
+
+W3Catalog, the web's first primitive search engine, released on September 2, 1993.
+Matthew Gray produced the first web robot in june 1993 at MIT, the Perl-based WWW Wanderer, and used it to make an index called 'Wandex'. Upto 1995, Wanderer purpose was  to measure the size of World Wide Web.
+
+Lately in 1993, the web second search engine Aliweb come into sight in November 1993. Some of the sights considered Aliweb as the first Search  Engine because former search engines(Archie, Veronica, Jughead) were infact just indexers.   A facility provided to the user by Aliweb is that user can give in the location information of the index files which in turn outputted
+the user-written page interpretation and keywords and webpages. Aliweb was not used broadly. 
+
+In December 1993, Jump Station used web form as an interface for the queries and used web robot to detect web pages.
+Jump Station was the first WWW resource-discovery device to combine the three required features of a web search engine that are crawling, indexing, and searching.  The crawler experienced that J.S. indexing and its searching were bounded to the titles and headings found on the web pages, as few resources were reachable on the platform it ran.
+
+
+In 1994, the first completely text based crawler search engines was Web Crawler. dissimilar to its predecessors, it let users search for any word in any webpage. It was  the first one to be broadly known by the public. Also in 1994, Lycos was started and became a major commercial attempt. After that, many search engines appeared and compete for popularity. 
+
+At the time Yahoo! was the most popular manner for people to find web pages of attentiveness, but its search function worked/operated on its web directory, instead full-text copies of web pages. Information aspirant could also browse the directory instead of doing a keyword-based search.
+In 1996, Netscape was looking to give a single search engine an unique deal to the search engine for featuring on Netscape's web browser. There was so much interest that  a deal was finalised with Netscape by five of the major search engines, where for $5Million per year each search engine would be in a rotation on the Netscape search engine page which costed for $5Million per year. The five engines were Yahoo!, Magellan, Lycos, Infoseek, and Excite.
+Many search engine companies were caught up in the .com fantasy, a market speculation resonate that peaked in 1999 and ceased in 2001.
+
+Around 2000, Google's search engine rose to greatness. The Google brought about effective results for many searches with an innovation known as PageRank. This repetiton algorithm ranks web pages based on the number and PageRank of other websites and pages that link there. Google too kept a minimal and essential interface to its search engine. In contrast, many of its challenger rooted a search engine in the web portal.
+
+Past 2000, Yahoo was providing search services based on Inktomi 's search engine. Yahoo! acquired Inktomi in 2002 and Overture (which owned AlltheWeb and AltaVista) in 2003. Yahoo! changed to Google's search engine until 2004, when it launched its own search engine based on the combined technologies of its making.
+
+In 1998, Microsoft first launched MSN Search using search results from Inktomi. In 1999 the result were listed from the combined result of Looksmart and Inktomi except for a short span of timein 1999 when AltaVista was also used to get the results.But in 2004,Microsoft own web crawler(called msnbot)was used for its  own search technology.  Bing, was launched on June 1, 2009 which was Microsoft's rebranded search engine. On July 29, 2009, Yahoo! and Microsoft came in collobaration in which Microsoft Bing technology will be used for Yahoo Search.
+
+There are many more every year search engines are either evolved or improved.
+--Bing launches Social Sidebar where users see search results through the lens of their  
+  social networks.
+--In 2015, Bing releases its own mobile-friendly algorithm update.
+--Google is improving its functionalities by using machine learning etc

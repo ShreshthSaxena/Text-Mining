@@ -1,0 +1,55 @@
+HISTORY OF SEARCH ENGINES
+
+
+Search engine
+
+A search engine is an Information retrieval system made for searching for documents from a large and distributed collection of documents and resources. It is a software program that searches the internet and tries to give the best results for given search words that the user types in the search bar. It may maintain it's own database to search over a big collection of websites, or it may us the search results of other search engines.
+
+
+History
+
+1.	ARCHIE (1990) : The first tool used for searching on the Internet was Archie. It was created in by three computer science students : Alan Emtage, Bill Heelan and J. Peter Deutsch ( McGill University in Montreal).  The program worked by downloading the directory listings of all the files located on FTP (File Transfer Protocol) sites and creating a searchable database of file names. Archie used UNIX commands to search.
+2.	Gopher - (1991) : Gopher was created by  Mark McCahill (University of Minnesota). Using Gopher the system administrators of the websites can prepare a customized menu of files, features and internet resources. When you used the Gopher, all you had to do is select the item you want from the menu.
+
+3.	Veronica and Jughead - (1991) : Two new Search programs emerged a Gopher became popular : Veronica and Jughead. Unlike Archie their names were a reference to Archie comics. Like Archie, they searched the file names and titles stored in Gopher index systems. The database in Verinica was a collection of menus from most Gopher sites.  Veronica used to build a dynamic menu consisting of the items that matched your request. 
+Jughead appeared with the same purpose as Veronica. Jughead searched a single server at a time. But Jughead had a problem that Veronica was not having, When Jughead used all of the available memory, it used to become unacceptably slow, limiting the size the servers it can index.
+
+4.	W3Catalog  - (1993) : W3Catalog used that many high-qualities, manually maintained lists of web resources that were already present (unlike later search engines, like Aliweb, which attempt to index the web by crawling over the content of web sites which was accessible). W3Catalog (acting as a mirror to these pages) provided a Perl-based front-end to enable dynamic querying to the reformatted contents.
+
+5.	Wanderer (1993)  : first web robot was created by Matthew Gray (MIT), it was a the Perl-based World Wide Web Wanderer, it was used  to generate an index called : Wandex. The Wanderer was deployed to measure the size of the World Wide Web, but later it was used to generate the index.
+
+6.	Aliweb - (1993) :  Aliweb appeared in November 1993. Aliweb stands for Archie Like Indexing for the WEB. Aliweb allowed users to submit keywords or key terms for their websites which will lead the other users to their page.  Aliweb used to include Web Pages and add user-written page descriptions in search results.
+
+7.	Jump Station - (1993) : . Jump Station was the first WWW resource-discovery tool to have the three main features of a web search engine : crawling, indexing, and searching.  Jump Station used a web robot to search through internet for web pages and build its index for them, and used a web form as the interface to its query program. The Jump Station program only indexed on the the titles and headings found in the web pages the crawler encountered.
+
+8.	WebCrawler - (1994) : Created by Brian Pinkerton (a CSE student at the University of Washington)  WebCrawler was a desktop application. But when WebCrawler went live on the Web it had a database containing pages from over 4000 different Web sites. WebCrawler was the first Web search engine to provide full text search while other bots were storing a URL, a title and at most 100 words.
+ 
+9.	MetaCrawler - (1995) : Daniel Dreilinger at Colorado State University developed Search Savvy which let users searched up to 20 different search engines at one and a number of directories. MetaCrawler was an improved version Search Savvy (on accuracy) with the addition of its own search syntax.
+
+10.	AltaVista - (1995) : It was created by Louis Monier (crawler) and Michael Burrows (indexer). AltaVista also included a natural language search.  For instance, “What is spider ?” would give information about spiders without getting a million pages referring to “what” and  “is”.
+
+11.	Excite - (1995) : Excite was founded as Architext in 1994 by Graham Spencer, Joe Kraus, Mark VanHaren, Ryan McIntyre, Ben Lutch and Martin Reinfried, who were all students at Stanford University. Excite Network was acquired by Ask Jeeves (now Ask.com) in March 2004.
+
+12.	Dogpile, & HotBot - (1996) :   Dogpile (developed by Aaron Flin) was a meta-search site. It searched multiple engines, removed duplicates and then presented the results to the user. 
+Although Google displaced HotBot as the leading web-crawler-based search engine, but before that HotBot search engine displaced AltaVista (the then leading web-crawler-based search engine). HotBot, with a spider capable of indexing 10 million pages a day, was one of the most powerful search engines of its day.
+
+13.	Ask Jeeves - (1996-1997) : The main idea behind Ask Jeeves (Ask)  founded by Garrett Gruener and David Warthen in Berkeley, California, was to allow users to get answers to questions posed in everyday which are in natural language. It also included traditional keyword searching.
+
+14.	Google - (1998) :  Google was founded in 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University, California. Google uses a special PageRank algorithm to rank the webpages, PageRank is developed in a way that it simulates the human concepts of importance. For eg :  assuming that web pages linked from many important pages are themselves likely to be important. 
+Once the pages are crawled and indexed by Googlebot (Google’s web crawler) they are returned to Google for ranking.
+Initially the simple PageRank method used number number of links to web page as ranking criteria but it was vulnerable to wrong results as one can forge a higher rank for a page by just making a large number of links to it. That's why Google has added other secret ranking criterias also.  
+
+15.	Teoma - (1999-2000) :  Teoma  (founded in 2000 by Professor Apostolos Gerasoulis and his colleagues at Rutgers University in New Jersey) used link popularity algorithm, unlike PageRank algorithm by Google.  Teoma used to rank a webpage for a specific subject by analyzing the links to the webpage and inside the  webpage. For example, a web page would rank higher for the subject “flood” if there are many pages about “flood” that links to it.
+
+16.	Yahoo! Search - (2004) : Yahoo! was founded in January 1994 by Jerry Yang and David Filo and was initially called "Jerry and David's Guide to the World Wide Web". It was a directory of other websites, organized in a hierarchy.
+ In April 1994, It was renamed "Yahoo!”, in late 1990s, Yahoo! evolved into a full-fledged portal with a search interface. Yahoo! owned Overture Services in 2003. (Overture Services owned the AlltheWeb and AltaVista search engines)
+Initially Yahoo! did not use their owned search engines, but kept using Google’s search engine for its results. But in 2003, Yahoo! Search became its own web crawler-based search engine, with their own crawler called Yahoo! Slurp. 
+
+17.	MSN Search & GoodSearch - (2005) : MSN Search was a search engine by Microsoft that comprised a search engine, index, and web crawler. MSN Search first launched in 1998 and used search results from Inktomi. The upgrade came out in Feb 2005.
+GoodSearch ( a Yahoo-powered search engine ) was unique in a way that it donates 50% of its revenue, to charities and schools designated by its users. 
+
+18.	Guruji, Sproose  - (2006-2007) : Guruji is an Indian Internet search engine, the main idea behind Guruji was to provide search results focused on Indian context. 
+Sproose (launched in August 2007 by founder Bob Pack) allows its users to influence the ranking order of the search results by voting for websites and deleting bad or spam results.
+
+19.	Bing - (2009) : Bing a search engine owned by Microsoft has its origins in Microsoft's previous search engines: MSN Search, Windows Live Search and later Live Search. It included features like giving search suggestions and a list of related searches.
+	

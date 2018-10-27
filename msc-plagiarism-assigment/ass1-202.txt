@@ -1,0 +1,29 @@
+﻿﻿﻿The History of Search Engine
+
+The objective of all the search engines is to find and organize scattered data found on the Internet. Before the development of search engines, the Internet was merely a collection of File Transfer Protocol (FTP) sites. At that time the users could only navigate to find specific shared files. But by the addition of more web servers, the Internet grew, and the World Wide Web became the medium for accessing the Internet, and due to the presence of huge amount of data the need for finding and organizing the distributed data files on FTP web servers grew. Search engines started coming up to help the users navigate the web and files on the internet.
+ 
+A search engine is a software that helps its users, to retrieve any information from the World Wide Web.  A user enters key phrases or keywords into a search engine and in result receives a list of Web content which is in the form of websites, videos, images etc. Basically, all the modern search engines have the following four parts.
+
+1. Crawling: An automated bot or program scans a website and collects details about every page.
+
+2. Indexing: The data collected from crawling is then processed and placed in a database.
+
+3. Retrieval: The third step is when a search engine processes the search query and gives the most relevant pages.
+
+4. Ranking: The final step involves ranking the most relevant pages for a search query. Search engines use a different ranking algorithm to show pages.
+
+In 1945 when Vannevar Bush published an article in The Atlantic Monthly, the need for the search engine was started. He emphasized the necessity for an expansive index for all knowledge. He urged scientists to work together to help build a body of knowledge for all mankind. He has also proposed the idea of a fast, reliable, extensible, virtually limitless, associative memory storage and retrieval system. He named this device a memex.
+
+Archie: It was the first search engine which started in the 1980s. It searched FTP (File Transfer Protocol) sites to create the index of downloadable files. Due to limited space, only the listings were available and not for the contents for each site.
+
+Lycos: It was created as a university project in 1993; it was the first to attain commercial search engine success.  In addition to providing ranked relevance retrieval, Lycos has some additional features like prefix matching and word proximity bonuses. Now it is currently comprised of a social network with email, web hosting, and media entertainment pages.
+
+Excite: It was created in 1993 by Stanford University students. The students had the idea of using statistical analysis of word relationships to make searching more efficient and improve the relevancy of searches on the Internet. 
+
+WebCrawler: It was created by Brian Pinkerton in 1994. WebCrawler was the first crawler which indexed complete pages online. 
+
+Yahoo: It was started at Stanford University by Jerry Yang and David Filo in 1994. It became a web portal and search engine. It started out as a listing of their favorite Web sites. What made it different was that each entry, in addition to the URL, also had a description of the page.
+
+Google: It was started by Larry Page and Sergey Brin began in 1997. According to Page and Brin believed search engines on the basis of the number of times search terms appeared on the web page the website should be ranked. Hence It was based on relevancy ranking.
+
+And after that many search engine came like MSN search by Microsoft in 1998, AllTheWeb in 1999, StartPage (2009), and many more.

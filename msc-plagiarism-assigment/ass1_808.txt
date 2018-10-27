@@ -1,0 +1,49 @@
+﻿ASSIGNMENT 1 - HISTORY OF SEARCH ENGINES
+ 
+Beginning of the development of Search Engines
+It was first noted in 1945 when an American engineer and scientist Vannevar Bush published in the magazine, The Atlantic Monthly, stating the importance for an “expansive index of all knowledge”. This marked the beginning of the development of Search engines that aims to find and organise huge amount of data.
+ 
+Search Engines before the web
+It was only in 1990 that this kind of index was made a reality with the development of the very first search engine called ‘Archie’ created by Alan Emtage, a student at McGrill University. The name stands for “archive” without “v”. Usually, location of the server and the name, location of the file that is to be accessed were required to retrieve information from the FTP servers. Archie searched for FTP sites to create index of downloadable files but due to limited space, only a searchable list of file names were available so it could search using the file name and not through the file content.
+ 
+Archie indexed files on FTP servers, Gopher created in 1991 by Mark McCahill indexed on plain text documents. Based on titles and descriptions of the document, manual traversal through a series of menus and submenus were required to get information from Gopher.
+Then in 1992, ‘Veronica’ and ‘Jughead’ were developed to search files stored in Gopher indexed systems. Veronica (1992) which meant ‘Very Easy Rodent-Oriented Net-wide Index to Computer Archives’ enabled keyword search for Gopher menus and submenus present in the entire Gopher system. Jughead (1993) which meant Jonzy's Universal Gopher Hierarchy Excavation and Display also searched file names (menus and submenus) in Gopher index systems but only searched a single server at a time.
+But all these had one major common limitation. These entire search engines were only able to search based on titles and file names, and not on the content of the file.
+ 
+Search Engines after the Web
+When the world wide web was created in 1991, there were no search engines developed to work fine over HTTP. Tim Berners Lee manually created and updated a directory of all web servers ( World wide web virtual library). It helped users find URLs for different websites. The CERN web servers hosted it at the beginning of the internet. 
+But when the web grew to the extent that manual maintenance of directories were not possible, the need for search engine became inescapable. The requirements that were needed to be met were:
+●          Content discovery
+●          Content indexing
+●          Search
+ 
+First web Search Engine - Searchable manual directories
+W3Catalog - It used a computer program to pull out information from few curated website indices and provided relevant listings. After W3Catalog came Aliweb where any website could be submitted for indexing.
+Most popular web directory - Yahoo
+Created by David Filo and Jerry Yang in 1994, provided the first collection of web pages across the internet.
+World Wide Web Wanderer (1993)
+Matthew Gray created it in 1993. An index wandex was generated to measure of the size of the world wide web.
+Jumpstation (1993)
+It used web page titles as well as headings to create indexes that were generated using web crawlers. Did not provide any ranking.
+First Full Text Search Engine - WebCrawler (1994)
+The first full text crawler based search engine was WebCrawler which was developed in 1994. The first search engine to index entire pages, but the amount of data required to do search made it too slow to be used during the day. Search for any keyword in a webpage was allowed unlike the previous engines.
+Lycos - 1994
+Launched in 1994, it’s huge collection of indexed documents made it so popular. Initially, 400,000 documents were indexed per month and it grew index of 60,000,0000 documents in less than two years. Such huge number of indexed pages as compared to other search engines led to it’s popularity.
+Excite - 1995
+Launched in 1995, it was the first search engine to rank the results to provide relevant ones using word relationships and statistical analysis.
+AltaVista - 1995
+It allowed natural language search queries and was also the first to use Boolean operators.
+AskJeeves - 1996
+Operated on question-answer platform, attempted to have human editors respond to search queries.
+Private Search Segment
+Private search engines as DuckDuckGo, Qrobe and Startpage gave users an escape from getting their search habits tracked.
+Predecessor to Google - Backrub - 1996
+Larry page and Sergey brin created it in 1996. The initial idea used backlinks to help rank websites for better search.
+Google - 1997
+Main revolution was to use Page Rank algorithm which marked the relevance (rank) of a web page contributed by two factors:
+1.     Backlinks i.e. the number of websites that link to that particular web page indicates relevance thereby increasing the rank of the page.
+2.     Backlinks from trustworthy webpage increases the rank of the page whereas links from non trustworthy webpage decreases the rank of the page. (These links are assigned respective weights called link juices)
+Google Fred penalizes sites with low quality backlinks. Google Instant shows real time search results for users as they enter a query and Google suggest provides dropdowns of suggested topics. Google Hummingbird algorithm attempts to understand the human intent behind a search query to help user search more precisely.
+These edge cutting advancements effectively helps Google to provide with better and relevant web pages. Google really tops by commanding over the 70% of search engine market.
+ 
+Some Other modern search engines are: MSN Search (1998) - By Microsoft, Overture (1998) - Paid Web search engine, All the Web (1999) – Also referred to as FAST search

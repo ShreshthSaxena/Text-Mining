@@ -1,0 +1,19 @@
+# History of Search Engines
+
+It’s hard to imagine the days before search engines had our answer for everything. Let’s go back in time, before Bing, Google, Yahoo, Ask Jeeves, AltaVista or even WebCrawler.
+Although the internet was technically invented back in 1969 by a U.S. government agency called ARPA, the first stages of what we now know as the World Wide Web was developed around 1990 by Tim Berners-Lee, when he introduced hypertext with the internet, thus making pages available to individuals from all across the world. Archie, the very first tool used for searching on the internet, stands for “archive” without the “v”. Computer science students at McGill University created the search engine, and it downloaded the directory of listings of all the files located on public FTP sites, creating a searchable database of file names.
+After the first well documented search engine Archie, Jughead which stands for “Jonzy’s Universal Gopher Hierarchy Excavation And Display” and Veronica an acronym for “Very Easy Rodent-Oriented Net-wide Index to Computerized Archives”, worked to search file names and titles stored in the Gopher protocol, which was used to retrieve documents over the internet. However, it wasn’t until 1993 when the first widely acclaimed search engine, the World Wide Web Wanderer, made its debut.
+From there, search engines snowballed.
+
+Below is a brief time-line of important dates in search engine history.
+1994: WebCrawler is released. WebCrawler contains 6,000 we1bsites, and let users search for any word in any webpage, which has become the standard for all major search engines since. Lycos was also launched in 1994, with 54,000 indexed documents.
+
+1995: AltaVista is introduced, with its unique ability to include multilingual search capabilities. From here, search engines multiplied, all vying for popularity. Some notable ones included Magellan, Excited, Infoseek, Inktomi, Northern Light and Yahoo!
+
+1996: Netscape struck a major deal with five major search engines where, for $5 million per year, each search engine would be in a rotation on the Netscape search page. The five engines were Yahoo!, Magellan, Lycos, Infoseek, and Excite.
+
+1998: Larry Page and Sergey Brin introduce Google. Google which is the most used search engine as of date, rose to prominence and achieved better results for most of the searches with an innovation they introduced called PageRank, which is an iterative algorithm that ranks web pages based on the number and PageRank of other websites and pages that link there. These days, Google holds greater than 50% of total search engine traffic, meaning that a top ranking in Google will yield more traffic to your site than a top ranking in any other search engine.
+
+These days, top brands and marketers are putting their money into image and voice search and machine learning, and it doesn’t look like it’s slowing down anytime soon. A surge in data means it’s easier than ever to understand customer needs and use these insights to refine advertising and marketing practices.
+
+

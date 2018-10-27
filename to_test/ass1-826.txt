@@ -1,0 +1,45 @@
+
+// Rana Ibrahimi 
+// Roll No 26 
+// MSc Third Semester
+
+
+Search Engine
+
+Is a software program that searches documents / files based on keywords and then return result of the search. There are many search engines available on the internet. However the most famous SEO is google and the other popular search engines are Yahoo, Bing, AOL and Ask.com. 
+
+Working of Search Engine
+
+Search engines are usually crawler based. They search the internet for webpages by using keywords. They scan webpages and links to other pages. Search engine uses algorithms that looks for the information in the website and store the information in large index or catalogue. When websites are updated, the indexes also get changed. 
+•	Information Retrieval
+User query is passed to search engines, based on the query it returns back result that is hierarchically ranked.
+•	Web Crawling
+It surfs the web in automated manner.
+•	Indexing
+The fastest way of searching. It analysis pages according to titles, headings and other specific field.
+
+
+Search Engine History
+
+In 1990, the first search engine Archie Logo was introduced. It is developed by L. Peter Deutsch and Alan Emtage. Index of downloadable files were created by searching the FTP sites. By facing limited space, only listing was available.
+In 1991, World Wide Web Virtual Library (VLib) was brought to the market by Tim Berners-Lee. He proposed a project for sharing and updating of information between researchers based on the idea of hypertext. He created World Wide Web and he designed first web browser and text editor (WorldWideWeb and developed on NeXTSTEP) and he also created the first Web server called httpd.
+In 1992, Veronica came to the market, it searched titles and names of file stored in Gopher Index System.
+In 1993, Jughead entered to the market, it searched file names and titles in Gopher index systems. However, it was only capable to search a single server at a time. 
+After Jughead, World Wide Web Wanderer hit the market created by Matthew Gray. It is bot counted active web server and it measured the growth of internet and later upgraded to get URLs too. Its database was named Wandex. Pages were accessed by bot hundreds of times per day and caused lag.
+In 1994, YAHOO initiated by Jerry Yang and David Filo and became search engine and web portal.
+In 1994, WebCrawler also introduced and is created by Brian Pinkerton. It was titled first crawler that indexed pages online. Later on it was purchased by AOL for their network.
+In 1995, AltaVista came to the market. It was most famous search engine of its era. It used multi-threaded crawler that covered more webpages. It became search result provider for YAHOO. It was then purchased by Overture Services Co and a month later by YAHOO.
+1n 1995, Looksmart was introduced and competed with yahoo. It became pay per click provider in 2002. It purchased search engine called WiseNut when it was dropped by Microsoft. However, it couldn’t get market. 
+In 2001, WiseNut entered market. It was crawled based engine that was introduced as a beta by Looksmart. For clustering of its search result it used WiseGuide.
+In 1995, Excite came to the market and was found by Stanford University student for architext.
+In 1996, Hotbot was owned by Lycos and lauched by Wired Magazine.
+In 1996, Dogpile is introduced by Aaron Flin and then it was sold to go2net.
+In 1996, Google was introduced by Larry Page and Segey Berin. They developed search engine that ranked the webpages based on the no of other pages linked to the site.
+In 1998, MSN Search was used by Microsoft. It obtained its search result from Inktomi, and after that from Looksmart.
+In 1996, Ask came that is designed by Garret Gruener and David Warthen in Berkeley. Its goal was to answer the questions of user that was asked in normal everyday language.
+In 2000, Teoma was a search engine built by professor Apostolos Gerasoulis and Tao Yang at Rutgers University. It was acquired by jeeves.com and was named ask.com.
+In 1998, Infoseek was introduced by Steve Kirschand which was bought Walt Disney Company in 1998.
+In 1998, Overture entered to market and was name GoTo and top listing were sold by cost per click or pay per click.
+In 1999, AOL purchased WebCrawler and reintroduced it as their own AOLSearch.
+In 2008, Cuil is introduced and is a search engine that organized pages by content and displayed entries with images.
+In 2009, Startpage came. It gets out the same result as Google. It uses lxquick to keep the privacy of the users.
